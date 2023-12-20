@@ -10,3 +10,22 @@ button{
     justify-content: center;
     align-items: center;
 }
+.menu{
+    text-align: center;
+  
+}
+.menu h1{
+ font-size: 35px;
+}
+.menu div{
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: orange;
+}
+.menu div h2{
+    padding: 20px;
+    margin-top: 0px;
+    cursor: pointer;
+}
